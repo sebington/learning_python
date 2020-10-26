@@ -1,2 +1,2 @@
 # learning_python
-my first repository for my python projects
+my first repository for testing python projects
